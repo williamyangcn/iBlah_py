@@ -30,45 +30,29 @@ port install py27-pyqt4
 
 
 
-== RUNTIME REQUIREMENT ==
+=== RUNTIME REQUIREMENT ===
 
 >= Python-2.6
 >= PyQt-4.6
 
-== BUILD REQUIREMENT ==
+=== BUILD REQUIREMENT ===
 
 >= Python-2.6
 >= PyQt-4.6
 >= QtDesigner-4.7
 
-
-== convert Qt UI file to python script ==
+=== convert Qt UI file to python script ===
 
 python scripts/create_ui.py
 
-== convert image file to python script  ==
+=== convert image file to python script  ===
 
 (QRC, Qt Resource Compiler)
 
 python script/compile_qrc.py
 
-== convert Balsamiq Mockups file to png ==
+=== convert Balsamiq Mockups file to png ===
 
 http://balsamiq.com/
 
 
-== 快捷键 ==
-
-| esc | 关闭标签页（聊天窗口内），关闭窗口（如果是最后一个标签页） |
-| enter | 登录；换行（聊天窗口内） |
-| ⌘-enter | 发送信息 |
-| ⌘-= | 添加好友 |
-| ⌘-i | 显示联系人信息 |
-| ⌘-[1-9] | 切换到标签页[1-9]（聊天窗口内） |
-| ⌘-] | 切换到下一个标签页（聊天窗口内） |
-| ⌘-[ | 切换到上一个标签页（聊天窗口内） |
-
-从系统继承
-
-| ⌘-q | 关闭程序 |
-| ⌘-h | 隐藏程序窗口 |
