@@ -1,0 +1,31 @@
+RECENT FIXED
+==============
+
+    parse verification code response package  
+    split multiple packages;
+    socket `resource temporarily unavailable` and couldn't receive package any more;
+    save user last presence to local, auto fill latest one account;
+    
+
+BUGS
+=======
+
+    recv/send message doesn't uses existed socket chanel
+    crash after delete buddy if check 'delete me from his contact list'
+    update contact list after accept add buddy application
+    update contact list after contact accept my add buddy application
+
+
+ENHANCEMENT
+==============
+    
+add one column, use model::sort
+http://doc.qt.nokia.com/4.7/qabstractitemmodel.html#sort
+
+use kquene instead of select ?
+http://www.freebsd.org/cgi/man.cgi?query=kqueue&sektion=2
+
+does gevent is better ?
+http://www.gevent.org/
+
+

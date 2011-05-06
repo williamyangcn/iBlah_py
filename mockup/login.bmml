@@ -1,0 +1,53 @@
+<mockup version="1.0" skin="sketch" measuredW="350" measuredH="436" mockupW="300" mockupH="400">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TitleWindow" x="50" y="36" w="300" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>25</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>OpenFetion</text>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="245" y="281" w="-1" h="-1" measuredW="51" measuredH="28" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>login</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="145" y="117" w="109" h="-1" measuredW="93" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>138000138000</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="230" y="373" w="-1" h="-1" measuredW="103" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>get%20password</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="145" y="152" w="110" h="-1" measuredW="37" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>****</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::CheckBox" x="76" y="212" w="-1" h="-1" measuredW="83" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>auto%20login</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::CheckBox" x="175" y="212" w="149" h="22" measuredW="144" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>remember%20password</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::ComboBox" x="121" y="249" w="-1" h="-1" measuredW="80" measuredH="86" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>avaiable%0Ahiden%0Aaway%0Abuny</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

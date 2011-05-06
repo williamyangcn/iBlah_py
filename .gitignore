@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+build/
+dist/
+.DS_Store
+.hg
+.hgignore

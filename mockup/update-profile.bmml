@@ -1,0 +1,119 @@
+<mockup version="1.0" skin="sketch" measuredW="839" measuredH="487" mockupW="804" mockupH="465">
+  <controls>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Arrow" x="330" y="121" w="221" h="31" measuredW="150" measuredH="100" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>click</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::TitleWindow" x="35" y="22" w="352" h="465" measuredW="450" measuredH="400" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>47</bottomheight>
+        <close>true</close>
+        <dragger>true</dragger>
+        <minimize>true</minimize>
+        <text>Profile</text>
+        <topheight>27</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="42" y="52" w="338" h="380" measuredW="200" measuredH="117" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <position>right</position>
+        <text>basic</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Button" x="50" y="447" w="-1" h="-1" measuredW="132" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reset%20to%20Defaults</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Paragraph" x="50" y="179" w="255" h="281" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>mood%20phrase</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Image" x="246" y="67" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::TextInput" x="146" y="71" w="-1" h="-1" measuredW="69" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>12345678</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::TextInput" x="146" y="125" w="-1" h="-1" measuredW="49" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lee%20Li</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Label" x="58" y="73" w="-1" h="-1" measuredW="67" measuredH="23" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>fetion%20NO.</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Label" x="58" y="126" w="-1" h="-1" measuredW="57" measuredH="23" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>fullname</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::TextInput" x="146" y="98" w="-1" h="-1" measuredW="69" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>12345678</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Label" x="58" y="99" w="-1" h="-1" measuredW="87" measuredH="23" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>cellphone%20NO.</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::TextArea" x="58" y="213" w="265" h="204" measuredW="200" measuredH="140" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <color>14540253</color>
+        <text>Some%20text%0AA%20second%20line%20of%20text%0A...</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::ScratchOut" x="81" y="287" w="-1" h="-1" measuredW="205" measuredH="107" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::TitleWindow" x="560" y="93" w="279" h="359" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Update%20Avatar</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Image" x="731" y="319" w="81" h="72" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Label" x="733" y="299" w="50" h="18" measuredW="50" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>preview</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Button" x="761" y="146" w="45" h="22" measuredW="45" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>add</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Button" x="761" y="171" w="66" h="22" measuredW="66" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>remove</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::List" x="584" y="136" w="159" h="148" measuredW="100" measuredH="159" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rowHeight>53</rowHeight>
+        <text>avatar%20One%0Aavatar%20Two%0Aavatar%20Three</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Image" x="673" y="146" w="37" h="31" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Image" x="673" y="192" w="37" h="31" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Image" x="673" y="236" w="37" h="31" measuredW="77" measuredH="79" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::StickyNote" x="509" y="331" w="126" h="77" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DND%20area</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

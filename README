@@ -1,0 +1,74 @@
+= About iBlah =
+
+iBlah is a free software to send instance message to desktop computer or cellphone for Mac OS.
+China Mobile Fetion Protocol compatible with iBlah.
+
+iBlah publish with BSD license.
+
+iBlah - 免费发即时信息到手机或电脑 Mac OS 客户端；中国移动飞信协议兼容 iBlah 。
+
+iBlah 使用 BSD 许可发布。
+
+== FEATURES ==
+
+- login with {cellphone No., fetion No.}
+- auto choose last login account and fill passwd in encryption
+- switch status to {{available, away, busy}, invisible, offline}
+- send message to client, receive from {client, cellphone}
+- add friend by {cellphone No., fetion No.}
+
+
+== Up & Usage ==
+
+For MacOS 10.6
+
+install MacPort
+
+port install py27-pyqt4
+
+/opt/local/bin/python2.7 iblah.py
+
+
+
+== RUNTIME REQUIREMENT ==
+
+>= Python-2.6
+>= PyQt-4.6
+
+== BUILD REQUIREMENT ==
+
+>= Python-2.6
+>= PyQt-4.6
+>= QtDesigner-4.7
+
+
+== convert Qt UI file to python script ==
+
+python scripts/create_ui.py
+
+== convert image file to python script  ==
+
+(QRC, Qt Resource Compiler)
+
+python script/compile_qrc.py
+
+== convert Balsamiq Mockups file to png ==
+
+http://balsamiq.com/
+
+
+== 快捷键 ==
+
+| esc | 关闭标签页（聊天窗口内），关闭窗口（如果是最后一个标签页） |
+| enter | 登录；换行（聊天窗口内） |
+| ⌘-enter | 发送信息 |
+| ⌘-= | 添加好友 |
+| ⌘-i | 显示联系人信息 |
+| ⌘-[1-9] | 切换到标签页[1-9]（聊天窗口内） |
+| ⌘-] | 切换到下一个标签页（聊天窗口内） |
+| ⌘-[ | 切换到上一个标签页（聊天窗口内） |
+
+从系统继承
+
+| ⌘-q | 关闭程序 |
+| ⌘-h | 隐藏程序窗口 |

@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+   <file alias="default-portrait.gif">../icons/default-portrait-130x130.gif</file>
+   <file alias="logo.svg">../icons/logo-64x64.svg</file>
+
+   <file alias="status-offline.png">../icons/status-offline.png</file>
+   <file alias="status-online.png">../icons/status-online.png</file>
+   <file alias="status-away.png">../icons/status-away.png</file>
+</qresource>
+</RCC>
